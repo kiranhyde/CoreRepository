@@ -1,4 +1,4 @@
 This project helps me to learn asp.net core mvc concepts.
-
 Learning 10 videos everyday.
 Practice once i get a job
+exercise everyday
