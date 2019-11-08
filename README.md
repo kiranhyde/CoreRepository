@@ -1,0 +1,2 @@
+# CoreRepository
+Contains Core Project
